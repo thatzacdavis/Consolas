@@ -1,5 +1,6 @@
 ﻿using System;
 using Consolas.Scenes;
+using Consolas.Models;
 
 namespace Consolas
 {
@@ -7,8 +8,10 @@ namespace Consolas
     {
         static void Main(string[] args)
         {
+            Player player = new Player();
+
             Intro intro = new Intro();
-            intro.Play();
+            intro.Play(ref player);
         }
     }
 }
