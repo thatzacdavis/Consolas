@@ -1,0 +1,10 @@
+/Users/zac/Documents/code/consolas/Consolas/obj/Debug/netcoreapp2.0/Consolas.csproj.CoreCompileInputs.cache
+/Users/zac/Documents/code/consolas/Consolas/obj/Debug/netcoreapp2.0/Consolas.AssemblyInfoInputs.cache
+/Users/zac/Documents/code/consolas/Consolas/obj/Debug/netcoreapp2.0/Consolas.AssemblyInfo.cs
+/Users/zac/Documents/code/consolas/Consolas/bin/Debug/netcoreapp2.0/Consolas.deps.json
+/Users/zac/Documents/code/consolas/Consolas/bin/Debug/netcoreapp2.0/Consolas.runtimeconfig.json
+/Users/zac/Documents/code/consolas/Consolas/bin/Debug/netcoreapp2.0/Consolas.runtimeconfig.dev.json
+/Users/zac/Documents/code/consolas/Consolas/bin/Debug/netcoreapp2.0/Consolas.dll
+/Users/zac/Documents/code/consolas/Consolas/bin/Debug/netcoreapp2.0/Consolas.pdb
+/Users/zac/Documents/code/consolas/Consolas/obj/Debug/netcoreapp2.0/Consolas.dll
+/Users/zac/Documents/code/consolas/Consolas/obj/Debug/netcoreapp2.0/Consolas.pdb

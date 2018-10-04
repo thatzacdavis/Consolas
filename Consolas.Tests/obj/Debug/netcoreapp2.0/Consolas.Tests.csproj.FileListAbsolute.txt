@@ -1,0 +1,16 @@
+/Users/zac/Documents/code/consolas/Consolas.Tests/obj/Debug/netcoreapp2.0/Consolas.Tests.csproj.CoreCompileInputs.cache
+/Users/zac/Documents/code/consolas/Consolas.Tests/obj/Debug/netcoreapp2.0/Consolas.Tests.AssemblyInfoInputs.cache
+/Users/zac/Documents/code/consolas/Consolas.Tests/obj/Debug/netcoreapp2.0/Consolas.Tests.AssemblyInfo.cs
+/Users/zac/Documents/code/consolas/Consolas.Tests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/zac/Documents/code/consolas/Consolas.Tests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/zac/Documents/code/consolas/Consolas.Tests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/zac/Documents/code/consolas/Consolas.Tests/bin/Debug/netcoreapp2.0/Consolas.Tests.deps.json
+/Users/zac/Documents/code/consolas/Consolas.Tests/bin/Debug/netcoreapp2.0/Consolas.Tests.runtimeconfig.json
+/Users/zac/Documents/code/consolas/Consolas.Tests/bin/Debug/netcoreapp2.0/Consolas.Tests.runtimeconfig.dev.json
+/Users/zac/Documents/code/consolas/Consolas.Tests/bin/Debug/netcoreapp2.0/Consolas.Tests.dll
+/Users/zac/Documents/code/consolas/Consolas.Tests/bin/Debug/netcoreapp2.0/Consolas.Tests.pdb
+/Users/zac/Documents/code/consolas/Consolas.Tests/bin/Debug/netcoreapp2.0/Consolas.dll
+/Users/zac/Documents/code/consolas/Consolas.Tests/bin/Debug/netcoreapp2.0/Consolas.pdb
+/Users/zac/Documents/code/consolas/Consolas.Tests/obj/Debug/netcoreapp2.0/Consolas.Tests.csproj.CopyComplete
+/Users/zac/Documents/code/consolas/Consolas.Tests/obj/Debug/netcoreapp2.0/Consolas.Tests.dll
+/Users/zac/Documents/code/consolas/Consolas.Tests/obj/Debug/netcoreapp2.0/Consolas.Tests.pdb
