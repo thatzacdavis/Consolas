@@ -4,7 +4,7 @@ using System;
 using System.IO;
 using System.Reflection;
 
-namespace Consolas.RepositoryLayer
+namespace Consolas.Repo
 {
     public class PlayerRepository
     {
@@ -21,7 +21,7 @@ namespace Consolas.RepositoryLayer
             UriBuilder uri = new UriBuilder(codeBase);
             string path = Uri.UnescapeDataString(uri.Path);
             string filePath = Path.GetDirectoryName(path);
-            string playerFilePath = filePath + "/players/" + player.Name +".con";
+            string playerFilePath = filePath + "/players/" + player.Name + ".con";
             Directory.CreateDirectory(filePath + "/players");
             File.WriteAllText(playerFilePath, playerData);
         }

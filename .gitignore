@@ -2,5 +2,11 @@
 .vscode
 
 # Build Artifacts
-/bin
 /obj
+/bin
+Consolas/obj
+Consolas/bin
+Consolas.Tests/obj
+Consolas.Tests/bin
+*.pdb
+*.dll
