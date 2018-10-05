@@ -10,3 +10,11 @@ Consolas.Tests/obj
 Consolas.Tests/bin
 *.pdb
 *.dll
+
+Consolas/obj/Debug/netcoreapp2.0/Consolas.pdb
+Consolas/obj/Debug/netcoreapp2.0/Consolas.dll
+Consolas/obj/Debug/netcoreapp2.0/Consolas.csproj.CoreCompileInputs.cache
+Consolas/bin/Debug/netcoreapp2.0/Consolas.pdb
+Consolas/bin/Debug/netcoreapp2.0/Consolas.dll
+Consolas.Tests/bin/Debug/netcoreapp2.0/Consolas.pdb
+Consolas.Tests/bin/Debug/netcoreapp2.0/Consolas.dll
