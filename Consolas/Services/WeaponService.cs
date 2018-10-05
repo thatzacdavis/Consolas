@@ -3,11 +3,11 @@ using Consolas.Models;
 
 public class WeaponService
 {
-    public void ReadWeaponChoice(Player player)
+    public string ReadWeaponChoice(Player player)
     {
         string weaponChoice = Console.ReadLine();
-        player.SetWeapon(weaponChoice);
-        Console.WriteLine($"You pick up the {ConvertWeaponChoiceToWeaponName(weaponChoice)}, it has some blood on it, hopefully the blood of enemies.");
+        string playerWeapon = ConvertWeaponChoiceToWeaponName(weaponChoice);
+        Console.WriteLine($"You pick up the {playerWeapon}, it has some blood on it, hopefully the blood of enemies.");
         Console.ReadLine();
     }
 
